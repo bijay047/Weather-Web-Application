@@ -4,6 +4,5 @@ This web app provides realtime weather information
 **Built With**<br>
 1. HTML
 2. CSS
-3. JavaScript <br>
-**Contact**<br>
+3. JavaScript <br>**Contact**<br>
 bijayshankar047@gmail.com
